@@ -1,4 +1,4 @@
-### I am passionate and progressive software developer.
+### I am passionate, progressive software developer.
 I am instrumental in modifying sophisticated software to automate processes. I enjoy recommending smart system design and optimization strategies to promote team success.
 
 - 🔭 I’m currently learning and working on projects in C and Vue.Js. 
