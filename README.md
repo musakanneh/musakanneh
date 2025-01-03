@@ -2,8 +2,6 @@
 
 ## About Me
 
-I am a passionate software developer with a keen interest in web development and open-source contributions. I love learning new technologies and applying them to solve real-world problems.
-
 - 🔭 I’m currently working on **[Your Current Project]**.
 - 🌱 I’m currently learning **[New Technology or Skill]**.
 - 👯 I’m looking to collaborate on **[Project or Open Source Initiative]**.
